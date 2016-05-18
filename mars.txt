@@ -1,1 +1,3 @@
 Mars is a reddish planet. 
+It has water
+Might support life
